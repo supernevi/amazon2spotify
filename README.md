@@ -9,6 +9,7 @@ A small application to import playlists from amazon music to spotify.
 * Go to https://developer.spotify.com/dashboard/ and create an application (use http://localhost:8080/ as redirect URL). Find and copy the client ID and the secret key, then paste it into **config.py**
 * Find your public playlist link from Amazon Music. You'll have to paste it into **config.py**
 * adjust your userid/username in the config.py
+* make sure on spotify is no playlist with name "<b>*amazonPlaylistName* [Amazon]</b>"
 * Run **Application.py**
 
 ## How this application works
